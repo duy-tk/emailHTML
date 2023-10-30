@@ -1,0 +1,101 @@
+<mjml>
+  <mj-head>
+    <mj-title>Discount Light</mj-title>
+    <mj-preview>Pre-header Text</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section {
+      -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link {
+      color: #5e6ebf
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link {
+      color: #888888
+      }
+    </mj-style>
+
+  </mj-head>
+  <mj-body background-color="#FBEFEB" width="600px">
+    <mj-section full-width="full-width" background-color="#" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="https://data.airight.io/home/email_mint_success/icon-logo-footer.png" alt="" align="center" width="150px" />
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="20px" padding-bottom="0">
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="px" border-radius="24px" css-class="body-section">
+        <mj-column width="100%">
+          <mj-text color="#212b35" font-weight="bold" font-size="40px" align="center" line-height="40px">
+            Text2Image
+          </mj-text>
+          <mj-text color="#212b35" font-weight="bold" font-size="40px" align="center" line-height="40px">
+            AI model release!
+          </mj-text>
+          <mj-text color="#DA613A" font-size="14px" font-weight="bold" align="center">
+            Hello Creatives! Ready to turn your words into vibrant visuals?
+          </mj-text>
+          <mj-text color="#637381" font-size="16px" align="center">
+            Introducing Text2Image on <a class="text-link" font-weight="bold" href="">aiRight.io</a>, where your imagination comes to life! ✨ Whether you're into sleek modern designs, whimsical anime styles, or something in between, we've got you covered.
+            Express yourself like never before, try Text2Image and bring your ideas to vibrant reality today!
+            🚀 Start creating magic now!
+          </mj-text>
+          <mj-text color="#DA613A" font-size="14px" font-weight="bold" align="center">
+            Joint any new jump to obtain
+          </mj-text>
+          <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
+            <mj-column width="30%">
+              <mj-text color="#637381" font-size="16px" padding-bottom="0">
+                ✨ Model Discounts
+              </mj-text>
+            </mj-column>
+            <mj-column width="30%">
+              <mj-text color="#637381" font-size="16px" padding-bottom="0">
+                ✨ Royalty Bonus
+              </mj-text>
+            </mj-column>
+            <mj-column width="30%">
+              <mj-text color="#637381" font-size="16px" padding-bottom="0">
+                ✨ Early Access
+              </mj-text>
+            </mj-column>
+          </mj-section>
+
+
+          <mj-button background-color="#DA613A" align="center" color="#ffffff" font-size="15px" font-weight="bold" border-radius="100px" href="https://google.com" width="200px">
+            Try out Text2Image
+          </mj-button>
+          <mj-image align="center" padding-bottom="30px" padding-left="30px" padding-right="30px" padding-top="10px" src="http://5vph.mj.am/img/5vph/b/1g8pi/0gzvp.jpeg" target="_blank" width="600px"></mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-wrapper full-width="full-width">
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+            <mj-social-element src="https://data.airight.io/home/email_mint_success/icon-social-Telegram.png" href="https://t.me/airight_io" target="_blank">
+            </mj-social-element>
+            <mj-social-element src="https://data.airight.io/home/email_mint_success/icon-social-Twitter.png" href="https://twitter.com/aiRight_io" target="_blank">
+            </mj-social-element>
+            <mj-social-element src="https://data.airight.io/home/email_mint_success/icon-social-Medium.png" href="https://blog.airight.io" target="_blank">
+            </mj-social-element>
+            <mj-social-element src="https://data.airight.io/home/email_mint_success/icon-social-WorldWideWeb.png" href="https://airight.io/" target="_blank">
+            </mj-social-element>
+          </mj-social>
+          <mj-text color="#445566" font-size="11px" align="center">
+            &copy; Copyright 2023 Oraichain Labs. All rights reserved.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
